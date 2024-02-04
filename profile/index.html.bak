@@ -1,0 +1,465 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Cactus Profile</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="icon">
+								<img src="images/front.png" alt="" />
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Cacta Cacticeae</h1>
+								<p>Your friendly neighbourhood cactus!</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Intro</a></li>
+								<li><a href="#bio">Bio</a></li>
+								<li><a href="#about">Genshin</a></li>
+								<li><a href="#look">Thanks!</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">Intro</h2>
+								<div class="attached"><span class="image main"><img src="images/pic001.gif" height="200" alt="" /><explanatory>Cactus Dancing Gif by @nanacobear</explanatory></span>
+								
+								</div>
+								
+								<p>
+									<b>What is this page?</b>
+									<br />I'm honestly quite bad at intros and really shy to initiate convos to begin with
+									<br />Basically i made this page so that <ins>i can introduce myself easier~</ins>
+									<br />
+									<br />Hello there, my name is <ins><b>Lan</b></ins>
+									<br />But you can call me <ins><b>Cactus</b></ins> or <ins><b>Cacta</b></ins> if it's easier for you!
+									<br />I also go by <ins><b>Aria</b></ins> to make it easier for my Japanese friends so you can call me that as well~
+									<br />I'm a programmer and an artist with <a href="https://en.wikipedia.org/wiki/Aphantasia">Aphantasia</a>
+									<br />
+									<br />In this page you can find out more about me and what i do:
+									<br /><a href="#bio">Click Here</a> for my general bio!
+									<br />Know me from Genshin? <a href="#about">Click Here</a>
+									<br />Feel free to check out <a href="https://twitter.com/cacticeae">My Twitter</a>, i post art like once a year or something.
+									<span class="image main"><img src="images/sketch.png" alt="" /></span> 
+									<br />
+									<span class="image main"><img src="images/sketch2.png" alt="" /></span>
+								</p>
+							</article>
+
+						<!-- Work -->
+							<article id="bio">
+								<h2 class="major">Bio</h2>
+								<span class="image main"><img src="images/pic02.png" alt="" /><catexpla>This is my cat, her name is Friend. Yes literally friend :D<br />She loves destruction<br/>(She was a stray rescue)</catexpla></span>
+
+								<p>
+									<b>Name:</b>
+									<br /> Lan
+									<br />
+									<br /> <b>Nickname:</b>
+									<br /> Cactus / Cacta
+									<br />
+									<br /> <b>Hobbies:</b>
+									<br /> Game Design, Drawing, Learning random stuff
+									<br />
+									<br /> <b>Random Stuff I Can Do:</b>
+									<br /> &bull; Programming
+									<br /> &bull; Spreadsheet
+									<br /> &bull; Watch Anime without Subtitles
+									<br /> &bull; Making Fluffy Omelette
+									<br /> &bull; Riichi Mahjong
+									<br /> &bull; Tiny bit of Card Tricks
+
+									<br />
+									<br /> <b>Recent Fav Games:</b>
+									<br /> &bull; Atelier Sophie & Ryza
+									<br /> &bull; Genshin Impact
+									<br /> &bull; Valorant
+									<br /> &bull; FFXIV
+
+									<br />
+									<br /> <b>Some Anime I Like:</b>
+									<br /> &bull; Psycho Pass
+									<br /> &bull; Bungou Stray Dogs
+									<br /> &bull; Mob Psycho 100
+									<br /> &bull; Witch of Mercury
+									<br /> &bull; Hyouka
+
+									<br />
+									<br /> <b>Random Facts about Me:</b>
+									<br /> &bull; INTP
+									<br /> &bull; Currently studying Python & Linux
+									<br /> &bull; I wish i can be good enough at drawing to start taking commission
+									<br /> &bull; I love cute dumb and soft stuff, like Aranara and maybe you
+									<br /> &bull; <ins>Used to</ins> play Sax, Piano, Drum and Harmonica & was really good at rhythm games
+									<br /> &bull; English is not my first language
+									<br /> &bull; I sit in discord voice chat basically 24/7
+									<br /> &bull; 1 Cat and 3 Family Doggo (1 Corgi & Two Toy Poodles!)
+									<br /> &bull; Give me Cheesecake & Hot Choco and you have my consent to kidnap me
+									<br /> &bull; I have Thalassophobia (yes even in games ;-;)
+									<br /> &bull; Very calculative & Doubt Myself a lot
+									<br /> &bull; I don't go out my way to watch anime or play new games by myself, so feel free if you want to reel me into your favorite ones!
+									<br /> &bull; I don't mind spoilers
+									<br /> &bull; A bit more awkward in a group setting
+
+								</p>
+
+								<explanatory>If you want to know any personal details please ask me directly :D</explanatory>
+
+							</article>
+
+						<!-- About -->
+							<article id="about">
+								<h2 class="major">About Genshin</h2>
+								<span class="image main"><img src="images/selfie.png" alt="" /></span>
+								<p>
+									<b>Why did i start playing Genshin?</b>
+									<br />I have been following genshin, especially the art community since launch. So i knew whats the game about and i know i will like it if i do play it.
+									<br />However i never actually get to play the game because i had no time to invest into the game itself, on top of it i also tend to avoid gacha games.
+									<br />
+									<br />A friend of mine has been really excited about Nahida being teased to release in 3.2, so they asked me to play genshin with them.
+									<br />At the moment i have more than a month break period, having nothing to do i decided it'd be fun to finally pick genshin up. So being a literal fresh sprout i finally step into genshin on the 1st of October 2022.
+									<br />
+									<span class="image main"><img src="images/roll02.jpg" alt="" /></span>
+									<b>The reality of it</b>
+									<br />Honestly, genshin is exactly as what i expected it to be. I knew the exploration side of it is going to be great, what i did not expect however; is that <ins>rolling all the way from Mondstadt to Sumeru</ins> with Sayu, to be the most enjoyable moment in the game for me.
+									<br />
+									<br />As far as combat goes i really like Hyperbloom and Nilou's Bountiful Cores. The imagination of launching and exploding starfruit mid-combat in my head is probably way more entertaining than what really is going on in-game.
+									<span class="image main"><img src="images/charashowcase.jpg" alt="" /></span>
+									<b>22nd October 2022</b>
+									<br />After 3 weeks of playing i finally hit AR 45, and since i finished Inazuma archon quest my plan now: make friends and take it slow, do exploration + artifact farm on the side
+									<br />I am currently exploring Inazuma but since i have phobia of large bodies of water, it is really hard to explore by myself. So if you want to backseat and hold my hand through Inazuma feel free to reach out!
+									<span class="image main"><img src="images/boat.png" alt="" /></span>
+									<b>1st November 2022</b>
+									<br />It's been officially a month since i started playing genshin and also half-way through my holidays ;-;
+									<br />Been playing a lot of co-op recently and my new excitement in game right now is riding boats together with friends while screaming in voice chat!
+									<br />Am very excited for patch 3.2!
+									<br />
+									<span class="image main"><img src="images/eat.png" alt="" /></span>
+									<b>14th November 2022</b>
+									<br />Andddd holiday is officially over, so i can't play Genshin all the time anymore, however considering i did get to AR 52, cleared Spiral Abyss and get a lot of friends, i think this journey was a successful one!
+									<br />
+									<span class="image main"><img src="images/nilou2.jpg" alt="" /></span>
+									Also this new fungi event is the best thing in the game, i love me my anemo shroom
+									<br />
+									<br />
+									<b>8th August 2023</b>
+									<br />Been a while here's a short update before Fontaine release~
+									<br />I am currently looking for more friends that can sit in VC and hold my hands through Fontaine exploration because i am TERRIFIED of underwater exploration
+									<br />
+									<span class="image main"><img src="images/dance.gif" alt="" /></span>
+									<b>Fav Characters?</b>
+									<br />Furina, Nilou, Hu Tao, Faruzan, Kazuha, Heizou, Yae, Kaveh, Kirara
+								</p>
+							</article>
+
+						<!-- Contact -->
+							<article id="look">
+								<h2 class="major">Thank you!</h2>
+								<p>
+									If you are reading this, thank you! I appreciate that you care enough to read my profile
+									<br />I'm always up to chat or hang-out especially in voice chat!
+									<br />I can be a bit talkactive and excited at times, so i hope thats fine for you~
+									<br />Looking forward to talking with you!
+									<br />
+								<p style="line-height:50%">
+									<font size="1">
+										Oh also fun fact for you who read this, if you are wondering why my account UID starts with 63 despite me being new; I really like Hu Tao as a character and on top of that i really like a lot of Characters Rie Takahashi voiced (Most noteably Ramizel & Mashu)
+										I really wanted Hu Tao & my friend was nice enough to give me their account which has Hu Tao at AR 12!
+									</font>
+								</p>
+										
+								</p>
+
+								<explanatory>cabbus</explanatory>
+							</article>
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">Discord @ cabbus
+						<br />Genshin UID NA	631662894
+						<br />Genshin UID Asia	866463146
+						<br />Valorant			カエラムーアリア#Aria
+						<br />FFXIV JP Tonberry</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
